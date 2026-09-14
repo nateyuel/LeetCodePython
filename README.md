@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1154-day-of-the-year) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Depth-First Search
 |  |

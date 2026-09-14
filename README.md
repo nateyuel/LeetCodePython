@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2506-count-pairs-of-similar-strings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2574-left-and-right-sum-differences) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2299-strong-password-checker-ii) |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2506-count-pairs-of-similar-strings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2506-count-pairs-of-similar-strings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |
+| [2506-count-pairs-of-similar-strings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2784-check-if-array-is-good) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1189-maximum-number-of-balloons) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2506-count-pairs-of-similar-strings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2506-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3312-sorted-gcd-pair-queries) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1386-cinema-seat-allocation) |
+| [2506-count-pairs-of-similar-strings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3514-number-of-unique-xor-triplets-ii) |

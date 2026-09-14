@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1507-reformat-date](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1507-reformat-date) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1871-jump-game-vii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1871-jump-game-vii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1386-cinema-seat-allocation) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |

@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1871-jump-game-vii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1840-maximum-building-height](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1871-jump-game-vii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack

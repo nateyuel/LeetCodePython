@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1154-day-of-the-year) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Depth-First Search
 |  |

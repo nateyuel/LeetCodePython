@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2103-rings-and-rods](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2103-rings-and-rods) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2299-strong-password-checker-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2299-strong-password-checker-ii) |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0925-long-pressed-name) |
 | [1332-remove-palindromic-subsequences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1332-remove-palindromic-subsequences) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |

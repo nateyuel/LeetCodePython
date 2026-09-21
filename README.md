@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0657-robot-return-to-origin) |

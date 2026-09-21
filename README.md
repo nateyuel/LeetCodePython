@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3904-smallest-stable-index-ii) |
+| [3921-score-validator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3921-score-validator) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3921-score-validator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3921-score-validator) |
 ## String
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-equal-score-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3707-equal-score-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3838-weighted-word-mapping) |
+| [3921-score-validator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |

@@ -6,6 +6,8 @@ class Solution:
         m = len(word)
 
         for idx in range(n):
+            if sequence[idx:idx + m] != word:
+                continue
             for idx2 in range(idx + m - 1, n):
                 if (idx2 - idx + 1) % m == 0:
                     t = (idx2 - idx + 1) // m

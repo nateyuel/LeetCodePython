@@ -11,7 +11,6 @@ class Solution:
             
             if close_count < open_count:
                 backtrack(curr_str + ")", open_count, close_count + 1)
-            
-            return result
 
-        return backtrack("", 0, 0)        
+        backtrack("", 0, 0)  
+        return result      

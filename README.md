@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |

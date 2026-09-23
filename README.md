@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0033-search-in-rotated-sorted-array) |
+| [0079-word-search](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0134-gas-station) |
 | [0149-max-points-on-a-line](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1301-number-of-paths-with-max-score) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0459-repeated-substring-pattern) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0112-path-sum) |
 | [1306-jump-game-iii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1306-jump-game-iii) |
@@ -670,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |

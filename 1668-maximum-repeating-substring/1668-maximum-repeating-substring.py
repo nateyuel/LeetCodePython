@@ -11,5 +11,7 @@ class Solution:
                     t = (idx2 - idx + 1) // m
                     if sequence[idx : idx2 + 1] == word * t:
                         max_k = max(max_k, t)
+                        if idx2 + 1 < n and sequence[idx2 + 1] != word[0]:
+                            break
         
         return max_k

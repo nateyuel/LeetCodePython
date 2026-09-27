@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0696-count-binary-substrings) |
 | [0748-shortest-completing-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0824-goat-latin) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0061-rotate-list) |
 | [0392-is-subsequence](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0696-count-binary-substrings) |
 | [0925-long-pressed-name](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0925-long-pressed-name) |
 | [1332-remove-palindromic-subsequences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1332-remove-palindromic-subsequences) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |

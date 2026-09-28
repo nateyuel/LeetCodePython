@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-reformat-date](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1507-reformat-date) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1668-maximum-repeating-substring](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1668-maximum-repeating-substring) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2751-robot-collisions) |
 ## Binary Search
@@ -734,4 +736,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

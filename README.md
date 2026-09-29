@@ -6,8 +6,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0079-word-search](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0134-gas-station) |
@@ -58,6 +58,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nateyuel/LeetCodePython/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2506-count-pairs-of-similar-strings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2506-count-pairs-of-similar-strings) |
@@ -118,8 +119,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3904-smallest-stable-index-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3921-score-validator) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1260-shift-2d-grid) |
@@ -133,8 +134,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3546-equal-sum-grid-partition-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1291-sequential-digits](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -145,8 +146,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1140-stone-game-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -165,8 +166,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3903-smallest-stable-index-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3904-smallest-stable-index-ii) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0396-rotate-function) |
@@ -215,8 +216,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3875-construct-uniform-parity-array-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1260-shift-2d-grid) |
@@ -234,8 +235,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3921-score-validator) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0079-word-search) |
@@ -275,6 +276,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2103-rings-and-rods](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nateyuel/LeetCodePython/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2299-strong-password-checker-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2299-strong-password-checker-ii) |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -311,8 +313,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3838-weighted-word-mapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3921-score-validator) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0149-max-points-on-a-line) |
 | [0409-longest-palindrome](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0409-longest-palindrome) |
 | [0748-shortest-completing-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0748-shortest-completing-word) |
@@ -332,6 +334,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2103-rings-and-rods](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2103-rings-and-rods) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nateyuel/LeetCodePython/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |
 | [2506-count-pairs-of-similar-strings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2540-minimum-common-value) |
@@ -358,8 +361,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1331-rank-transform-of-an-array) |
@@ -372,6 +375,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nateyuel/LeetCodePython/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2751-robot-collisions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -388,16 +392,16 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3731-find-missing-elements](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2751-robot-collisions) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -417,8 +421,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0392-is-subsequence) |
@@ -453,22 +457,22 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0212-word-search-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0212-word-search-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3093-longest-common-suffix-queries) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0819-most-common-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1189-maximum-number-of-balloons) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -479,15 +483,15 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0112-path-sum) |
@@ -501,8 +505,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0112-path-sum) |
 | [1306-jump-game-iii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1306-jump-game-iii) |
@@ -514,23 +518,23 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0061-rotate-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0061-rotate-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0061-rotate-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0061-rotate-list) |
 | [0392-is-subsequence](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0541-reverse-string-ii) |
@@ -549,8 +553,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0134-gas-station](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -575,8 +579,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3689-maximum-total-subarray-value-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1386-cinema-seat-allocation) |
 | [2506-count-pairs-of-similar-strings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -586,8 +590,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -595,12 +599,12 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3161-block-placement-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3161-block-placement-queries) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3161-block-placement-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3525-find-x-value-of-array-ii) |
@@ -608,8 +612,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3737-count-subarrays-with-majority-element-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0112-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -617,38 +621,38 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0112-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -657,17 +661,17 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3620-network-recovery-pathways) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -675,68 +679,68 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3658-gcd-of-odd-and-even-sums](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0486-predict-the-winner](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1510-stone-game-iv) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0212-word-search-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1140-stone-game-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1140-stone-game-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1510-stone-game-iv) |
 ## Nim Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-stone-game-iv](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-stone-game-iv](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1510-stone-game-iv) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0459-repeated-substring-pattern) |
 | [1668-maximum-repeating-substring](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0459-repeated-substring-pattern) |
 ## Longest Increasing Subsequence
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0944-delete-columns-to-make-sorted) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

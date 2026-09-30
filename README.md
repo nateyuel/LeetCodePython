@@ -312,6 +312,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3921-score-validator) |
+| [4006-count-valid-prefixes](https://github.com/nateyuel/LeetCodePython/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -482,6 +483,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3312-sorted-gcd-pair-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4006-count-valid-prefixes](https://github.com/nateyuel/LeetCodePython/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |

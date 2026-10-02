@@ -10,6 +10,9 @@ class Solution:
         count = 0
         result = ""
 
+        if not letters:
+            return s
+
         for idx, ch in enumerate(s):
             if not ch.isalpha():
                 store[len(non_letters)] = count

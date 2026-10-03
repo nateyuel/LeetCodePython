@@ -314,6 +314,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3921-score-validator) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/nateyuel/LeetCodePython/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4006-count-valid-prefixes](https://github.com/nateyuel/LeetCodePython/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -394,6 +395,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3731-find-missing-elements](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/nateyuel/LeetCodePython/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,6 +560,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/nateyuel/LeetCodePython/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

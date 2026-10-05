@@ -254,6 +254,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0748-shortest-completing-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0824-goat-latin) |
+| [0856-score-of-parentheses](https://github.com/nateyuel/LeetCodePython/tree/main/0856-score-of-parentheses/) | Medium |
 | [0917-reverse-only-letters](https://github.com/nateyuel/LeetCodePython/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0929-unique-email-addresses) |
@@ -402,6 +403,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nateyuel/LeetCodePython/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/nateyuel/LeetCodePython/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/nateyuel/LeetCodePython/tree/main/0856-score-of-parentheses/) | Medium |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -757,5 +759,6 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0020-valid-parentheses](https://github.com/nateyuel/LeetCodePython/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nateyuel/LeetCodePython/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/nateyuel/LeetCodePython/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

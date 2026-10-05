@@ -33,7 +33,7 @@ class Solution:
         visited = set()
         result = 0
 
-        for idx, (parent, childrens, scores) in store.items():
+        for idx in store.keys():
             if idx not in visited:
                 result += dfs(idx)
  

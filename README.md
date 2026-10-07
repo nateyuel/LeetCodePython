@@ -275,6 +275,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1704-determine-if-string-halves-are-alike](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1844-replace-all-digits-with-characters](https://github.com/nateyuel/LeetCodePython/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1871-jump-game-vii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2075-decode-the-slanted-ciphertext) |

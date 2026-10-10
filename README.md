@@ -59,6 +59,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2161-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nateyuel/LeetCodePython/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2446-determine-if-two-events-have-conflict](https://github.com/nateyuel/LeetCodePython/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2506-count-pairs-of-similar-strings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2506-count-pairs-of-similar-strings) |
@@ -286,6 +287,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nateyuel/LeetCodePython/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2299-strong-password-checker-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2299-strong-password-checker-ii) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/nateyuel/LeetCodePython/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |

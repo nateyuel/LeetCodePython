@@ -68,6 +68,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2574-left-and-right-sum-differences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2751-robot-collisions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nateyuel/LeetCodePython/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2788-split-strings-by-separator) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -138,6 +139,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nateyuel/LeetCodePython/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3483-unique-3-digit-even-numbers) |

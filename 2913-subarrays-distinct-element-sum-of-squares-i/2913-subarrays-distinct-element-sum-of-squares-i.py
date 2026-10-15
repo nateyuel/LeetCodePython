@@ -8,5 +8,5 @@ class Solution:
             for idx2 in range(idx, n):
                 dist.add(nums[idx2])
                 result += (len(dist)) ** 2
-        
+
         return result

@@ -314,6 +314,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3120-count-the-number-of-special-characters-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3136-valid-word) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/nateyuel/LeetCodePython/tree/main/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
@@ -608,6 +609,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/nateyuel/LeetCodePython/tree/main/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |

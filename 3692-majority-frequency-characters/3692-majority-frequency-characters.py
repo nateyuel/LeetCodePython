@@ -5,7 +5,6 @@ class Solution:
         max_uniq = 0
         max_grp = 0
 
-        print(counter)
         for ch, freq in counter.items():
             store[freq].append(ch)
 

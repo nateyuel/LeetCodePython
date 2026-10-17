@@ -325,6 +325,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3614-process-string-with-special-operations-ii) |
+| [3692-majority-frequency-characters](https://github.com/nateyuel/LeetCodePython/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3707-equal-score-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3707-equal-score-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3838-weighted-word-mapping) |
@@ -376,6 +377,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3483-unique-3-digit-even-numbers](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3692-majority-frequency-characters](https://github.com/nateyuel/LeetCodePython/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -512,6 +514,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3692-majority-frequency-characters](https://github.com/nateyuel/LeetCodePython/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4006-count-valid-prefixes](https://github.com/nateyuel/LeetCodePython/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Geometry

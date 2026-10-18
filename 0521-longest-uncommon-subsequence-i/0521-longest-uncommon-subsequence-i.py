@@ -16,12 +16,11 @@ class Solution:
                 b_subs.add(cand)
                 if cand not in a_subs:
                     result = max(result, len(cand))
-        
+
         for i in range(a_len):
             for j in range(i + 1, a_len + 1):
                 cand = a[i:j]
                 if cand not in b_subs:
                     result = max(result, len(cand))
-        
-        return result 
 
+        return result

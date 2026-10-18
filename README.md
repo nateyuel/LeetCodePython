@@ -252,6 +252,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0459-repeated-substring-pattern](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/nateyuel/LeetCodePython/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0541-reverse-string-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/nateyuel/LeetCodePython/tree/main/0678-valid-parenthesis-string/) | Medium |

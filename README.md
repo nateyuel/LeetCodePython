@@ -262,6 +262,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0819-most-common-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/nateyuel/LeetCodePython/tree/main/0856-score-of-parentheses/) | Medium |
+| [0859-buddy-strings](https://github.com/nateyuel/LeetCodePython/tree/main/0859-buddy-strings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/nateyuel/LeetCodePython/tree/main/0917-reverse-only-letters/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nateyuel/LeetCodePython/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0925-long-pressed-name](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0925-long-pressed-name) |
@@ -341,6 +342,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0409-longest-palindrome](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0409-longest-palindrome) |
 | [0748-shortest-completing-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/nateyuel/LeetCodePython/tree/main/0859-buddy-strings/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0874-walking-robot-simulation) |
 | [0929-unique-email-addresses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1189-maximum-number-of-balloons) |

@@ -332,6 +332,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3707-equal-score-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3707-equal-score-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/nateyuel/LeetCodePython/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3921-score-validator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3921-score-validator) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/nateyuel/LeetCodePython/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4006-count-valid-prefixes](https://github.com/nateyuel/LeetCodePython/tree/main/4006-count-valid-prefixes/) | Easy |

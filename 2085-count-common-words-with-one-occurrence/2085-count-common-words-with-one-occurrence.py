@@ -8,6 +8,5 @@ class Solution:
             if freq == 1:
                 if count2.get(word) == 1:
                     result += 1
-        
-        return result 
 
+        return result

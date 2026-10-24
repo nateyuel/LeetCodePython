@@ -193,6 +193,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1812-determine-color-of-a-chessboard-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1840-maximum-building-height](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/nateyuel/LeetCodePython/tree/main/2409-count-days-spent-together/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -299,6 +300,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nateyuel/LeetCodePython/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2299-strong-password-checker-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2299-strong-password-checker-ii) |
+| [2409-count-days-spent-together](https://github.com/nateyuel/LeetCodePython/tree/main/2409-count-days-spent-together/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nateyuel/LeetCodePython/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2451-odd-string-difference](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2452-words-within-two-edits-of-dictionary) |

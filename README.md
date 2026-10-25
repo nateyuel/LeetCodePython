@@ -145,6 +145,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1291-sequential-digits](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nateyuel/LeetCodePython/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/nateyuel/LeetCodePython/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -319,6 +320,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3093-longest-common-suffix-queries) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/nateyuel/LeetCodePython/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3136-valid-word) |

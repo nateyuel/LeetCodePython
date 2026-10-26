@@ -102,6 +102,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3546-equal-sum-grid-partition-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nateyuel/LeetCodePython/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -138,6 +139,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3546-equal-sum-grid-partition-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nateyuel/LeetCodePython/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -555,6 +557,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3310-remove-methods-from-project](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nateyuel/LeetCodePython/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -568,6 +571,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2685-count-the-number-of-complete-components](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nateyuel/LeetCodePython/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,6 +580,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nateyuel/LeetCodePython/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

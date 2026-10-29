@@ -288,6 +288,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1668-maximum-repeating-substring](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1668-maximum-repeating-substring) |
+| [1694-reformat-phone-number](https://github.com/nateyuel/LeetCodePython/tree/main/1694-reformat-phone-number/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1812-determine-color-of-a-chessboard-square) |

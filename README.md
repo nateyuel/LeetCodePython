@@ -301,6 +301,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2085-count-common-words-with-one-occurrence](https://github.com/nateyuel/LeetCodePython/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/nateyuel/LeetCodePython/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nateyuel/LeetCodePython/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2299-strong-password-checker-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2299-strong-password-checker-ii) |

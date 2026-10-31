@@ -285,6 +285,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nateyuel/LeetCodePython/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1592-rearrange-spaces-between-words](https://github.com/nateyuel/LeetCodePython/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1668-maximum-repeating-substring](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1668-maximum-repeating-substring) |

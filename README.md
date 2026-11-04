@@ -300,6 +300,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1844-replace-all-digits-with-characters](https://github.com/nateyuel/LeetCodePython/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1871-jump-game-vii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nateyuel/LeetCodePython/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/nateyuel/LeetCodePython/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/nateyuel/LeetCodePython/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2075-decode-the-slanted-ciphertext) |

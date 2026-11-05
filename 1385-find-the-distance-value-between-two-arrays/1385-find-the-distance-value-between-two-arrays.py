@@ -9,8 +9,8 @@ class Solution:
                     break
                 if abs(num - num2) <= d:
                     valid = False
-            
+
             if valid:
                 result += 1
-            
-        return result 
+
+        return result

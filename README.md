@@ -34,6 +34,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1331-rank-transform-of-an-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1345-jump-game-iv) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nateyuel/LeetCodePython/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -417,6 +418,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1288-remove-covered-intervals](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nateyuel/LeetCodePython/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -465,6 +467,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nateyuel/LeetCodePython/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nateyuel/LeetCodePython/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -610,6 +613,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0917-reverse-only-letters](https://github.com/nateyuel/LeetCodePython/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0925-long-pressed-name) |
 | [1332-remove-palindromic-subsequences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1332-remove-palindromic-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nateyuel/LeetCodePython/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |

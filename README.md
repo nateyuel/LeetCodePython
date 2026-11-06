@@ -238,6 +238,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0874-walking-robot-simulation](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1260-shift-2d-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/nateyuel/LeetCodePython/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2751-robot-collisions) |
@@ -308,6 +309,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2085-count-common-words-with-one-occurrence](https://github.com/nateyuel/LeetCodePython/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/nateyuel/LeetCodePython/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/nateyuel/LeetCodePython/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nateyuel/LeetCodePython/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |

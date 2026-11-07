@@ -284,6 +284,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1021-remove-outermost-parentheses](https://github.com/nateyuel/LeetCodePython/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1154-day-of-the-year) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/nateyuel/LeetCodePython/tree/main/1163-last-substring-in-lexicographical-order/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1189-maximum-number-of-balloons) |
 | [1332-remove-palindromic-subsequences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -614,6 +615,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0696-count-binary-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0696-count-binary-substrings) |
 | [0917-reverse-only-letters](https://github.com/nateyuel/LeetCodePython/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/0925-long-pressed-name) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/nateyuel/LeetCodePython/tree/main/1163-last-substring-in-lexicographical-order/) | Hard |
 | [1332-remove-palindromic-subsequences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nateyuel/LeetCodePython/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -835,4 +837,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1021-remove-outermost-parentheses](https://github.com/nateyuel/LeetCodePython/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nateyuel/LeetCodePython/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Lyndon Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1163-last-substring-in-lexicographical-order](https://github.com/nateyuel/LeetCodePython/tree/main/1163-last-substring-in-lexicographical-order/) | Hard |
 <!---LeetCode Topics End-->

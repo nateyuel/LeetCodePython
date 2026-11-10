@@ -73,6 +73,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2553-separate-the-digits-in-an-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/nateyuel/LeetCodePython/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2751-robot-collisions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nateyuel/LeetCodePython/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2784-check-if-array-is-good) |
@@ -245,6 +246,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nateyuel/LeetCodePython/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2553-separate-the-digits-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/nateyuel/LeetCodePython/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2751-robot-collisions](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -327,6 +329,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2506-count-pairs-of-similar-strings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2506-count-pairs-of-similar-strings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/nateyuel/LeetCodePython/tree/main/2716-minimize-string-length/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/nateyuel/LeetCodePython/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2788-split-strings-by-separator) |
 | [2833-furthest-point-from-origin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -394,6 +397,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2540-minimum-common-value](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/nateyuel/LeetCodePython/tree/main/2716-minimize-string-length/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/nateyuel/LeetCodePython/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nateyuel/LeetCodePython/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |

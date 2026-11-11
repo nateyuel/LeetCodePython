@@ -226,6 +226,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3658-gcd-of-odd-and-even-sums](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nateyuel/LeetCodePython/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nateyuel/LeetCodePython/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -359,6 +360,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3614-process-string-with-special-operations-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3614-process-string-with-special-operations-ii) |
 | [3692-majority-frequency-characters](https://github.com/nateyuel/LeetCodePython/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3707-equal-score-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3707-equal-score-substrings) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nateyuel/LeetCodePython/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/nateyuel/LeetCodePython/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -640,6 +642,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nateyuel/LeetCodePython/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nateyuel/LeetCodePython/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/nateyuel/LeetCodePython/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
@@ -685,6 +688,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nateyuel/LeetCodePython/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
 | Problem Name | Difficulty |

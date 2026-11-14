@@ -93,6 +93,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nateyuel/LeetCodePython/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
@@ -175,6 +176,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1871-jump-game-vii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nateyuel/LeetCodePython/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3707-equal-score-substrings](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3707-equal-score-substrings) |
@@ -704,6 +706,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nateyuel/LeetCodePython/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nateyuel/LeetCodePython/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

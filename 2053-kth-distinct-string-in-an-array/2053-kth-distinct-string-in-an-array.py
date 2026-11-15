@@ -8,6 +8,5 @@ class Solution:
                 distinct_count += 1
                 if distinct_count == k:
                     return cand
-        
+
         return ""
-        

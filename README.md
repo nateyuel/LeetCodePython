@@ -317,6 +317,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nateyuel/LeetCodePython/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/nateyuel/LeetCodePython/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nateyuel/LeetCodePython/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/nateyuel/LeetCodePython/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/nateyuel/LeetCodePython/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nateyuel/LeetCodePython/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -397,6 +398,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nateyuel/LeetCodePython/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/nateyuel/LeetCodePython/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nateyuel/LeetCodePython/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nateyuel/LeetCodePython/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2103-rings-and-rods) |

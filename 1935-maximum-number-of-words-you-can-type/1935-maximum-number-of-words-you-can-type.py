@@ -10,7 +10,7 @@ class Solution:
                     valid = False
                     break
 
-            if valid:          
+            if valid:
                 result += 1
-        
-        return result 
+
+        return result

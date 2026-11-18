@@ -8,5 +8,5 @@ class Solution:
             if s[idx] != s[idx - 1]:
                 result += 1
             idx += 2
-        
-        return result 
+
+        return result

@@ -4,5 +4,5 @@ class Solution:
 
         for word in words:
             acronym += word[0]
-        
+
         return s == acronym

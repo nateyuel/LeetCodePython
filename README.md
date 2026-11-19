@@ -79,6 +79,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2778-sum-of-squares-of-special-elements](https://github.com/nateyuel/LeetCodePython/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2788-split-strings-by-separator) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nateyuel/LeetCodePython/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nateyuel/LeetCodePython/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -340,6 +341,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2716-minimize-string-length](https://github.com/nateyuel/LeetCodePython/tree/main/2716-minimize-string-length/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nateyuel/LeetCodePython/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2788-split-strings-by-separator) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nateyuel/LeetCodePython/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |

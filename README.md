@@ -359,6 +359,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3136-valid-word](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3136-valid-word) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/nateyuel/LeetCodePython/tree/main/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3330-find-the-original-typed-string-i](https://github.com/nateyuel/LeetCodePython/tree/main/3330-find-the-original-typed-string-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3498-reverse-degree-of-a-string) |

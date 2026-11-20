@@ -8,5 +8,5 @@ class Solution:
             if word[idx] == prev:
                 result += 1
             prev = word[idx]
-        
-        return result 
+
+        return result

@@ -311,6 +311,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1668-maximum-repeating-substring](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1668-maximum-repeating-substring) |
 | [1694-reformat-phone-number](https://github.com/nateyuel/LeetCodePython/tree/main/1694-reformat-phone-number/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1796-second-largest-digit-in-a-string](https://github.com/nateyuel/LeetCodePython/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/nateyuel/LeetCodePython/tree/main/1844-replace-all-digits-with-characters/) | Easy |
@@ -399,6 +400,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1624-largest-substring-between-two-equal-characters](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1796-second-largest-digit-in-a-string](https://github.com/nateyuel/LeetCodePython/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nateyuel/LeetCodePython/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nateyuel/LeetCodePython/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |

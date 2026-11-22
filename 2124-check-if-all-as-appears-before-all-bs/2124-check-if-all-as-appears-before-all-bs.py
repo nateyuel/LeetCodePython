@@ -8,5 +8,5 @@ class Solution:
                 return False
             else:
                 curr = s[idx]
-        
+
         return True

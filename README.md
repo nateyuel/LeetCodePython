@@ -315,6 +315,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/nateyuel/LeetCodePython/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/nateyuel/LeetCodePython/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1871-jump-game-vii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nateyuel/LeetCodePython/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/nateyuel/LeetCodePython/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |

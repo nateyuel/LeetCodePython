@@ -4,5 +4,5 @@ class Solution:
 
         for word in sentences:
             result = max(result, len(word.split(" ")))
-        
-        return result 
+
+        return result

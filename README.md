@@ -61,6 +61,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2089-find-target-indices-after-sorting-array](https://github.com/nateyuel/LeetCodePython/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/nateyuel/LeetCodePython/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -328,6 +329,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2085-count-common-words-with-one-occurrence](https://github.com/nateyuel/LeetCodePython/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/nateyuel/LeetCodePython/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/nateyuel/LeetCodePython/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nateyuel/LeetCodePython/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/nateyuel/LeetCodePython/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |

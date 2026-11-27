@@ -369,6 +369,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3330-find-the-original-typed-string-i](https://github.com/nateyuel/LeetCodePython/tree/main/3330-find-the-original-typed-string-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/nateyuel/LeetCodePython/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -435,6 +436,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3120-count-the-number-of-special-characters-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3312-sorted-gcd-pair-queries) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/nateyuel/LeetCodePython/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -583,6 +585,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2833-furthest-point-from-origin](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3312-sorted-gcd-pair-queries) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/nateyuel/LeetCodePython/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3692-majority-frequency-characters](https://github.com/nateyuel/LeetCodePython/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/natnaeleyuel/leetcode_python_solution_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
